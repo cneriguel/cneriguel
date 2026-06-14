@@ -66,7 +66,7 @@
 ![React](https://img.shields.io/badge/React-FFFAFA?style=for-the-badge&logo=react&logoColor=372528)
 ![GitHub](https://img.shields.io/badge/GitHub-FFFAFA?style=for-the-badge&logo=github&logoColor=372528)
 ![Azure](https://img.shields.io/badge/Azure-FFFAFA?style=for-the-badge&logo=microsoftazure&logoColor=372528)
-![Power Platform](https://img.shields.io/badge/Power%20Platform-FFFAFA?style=for-the-badge&logo=microsoft&logoColor=372528)
+![Microsoft PowerApps](https://img.shields.io/badge/Power%20Platform-FFFAFA?style=for-the-badge&logo=microsoft&logoColor=372528)
 
 </div>
 
